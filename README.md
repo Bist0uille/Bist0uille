@@ -1,4 +1,4 @@
-# Timothé
+# Tim
 
 Développeur Python & JavaScript — automatisation, scripts utilitaires, intégrations API.
 
@@ -24,7 +24,7 @@ Bordeaux · Disponible pour missions freelance
 
 ---
 
-# Timothé
+# Tim
 
 Python & JavaScript developer — automation, utility scripts, API integrations.
 
