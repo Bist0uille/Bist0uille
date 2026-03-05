@@ -11,6 +11,7 @@ Je construis des outils qui font gagner du temps : extraction de données, autom
 **Projets récents**
 
 - [prospection_seo](https://github.com/Bist0uille/prospection_seo) — Pipeline de prospection B2B automatisé : extraction base SIREN/INSEE, recherche de sites web, audit SEO par crawling, scoring des opportunités commerciales. Output CSV + dashboard HTML. (Python, DuckDuckGo API, Docker)
+- [Archiscrap](https://github.com/Bist0uille/Archiscrap) — Pipeline de scraping, audit Lighthouse et extraction d'emails sur les sites d'architectes. Scoring du potentiel d'amélioration pour ciblage commercial. (Python, Selenium, Lighthouse)
 - [ArchiBot](https://github.com/Bist0uille/archibot) — Automatisation du remplissage de formulaires CERFA pour architectes (Python, PDF, Tkinter)
 - [Infinite Story](https://github.com/Bist0uille/infinite-story) — RPG textuel à narration infinie pilotée par IA (Python, Gemini API)
 
@@ -37,6 +38,7 @@ I build tools that save time: data extraction, task automation, web analysis, B2
 **Recent projects**
 
 - [prospection_seo](https://github.com/Bist0uille/prospection_seo) — Automated B2B lead generation pipeline: SIREN/INSEE database extraction, website discovery, SEO crawl audit, commercial opportunity scoring. CSV + HTML dashboard output. (Python, DuckDuckGo API, Docker)
+- [Archiscrap](https://github.com/Bist0uille/Archiscrap) — Scraping, Lighthouse audit and email extraction pipeline for architect websites. Scores improvement potential for commercial targeting. (Python, Selenium, Lighthouse)
 - [ArchiBot](https://github.com/Bist0uille/archibot) — Automated PDF form filling for architects (Python, PDF, Tkinter)
 - [Infinite Story](https://github.com/Bist0uille/infinite-story) — Infinite AI-generated text RPG (Python, Gemini API)
 
