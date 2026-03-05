@@ -18,6 +18,8 @@ Je construis des outils qui font gagner du temps : extraction de données, autom
 
 Bordeaux · Disponible pour missions freelance
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bist0uille&show_icons=true&hide_title=true&count_private=true&theme=default&hide=stars)
+
 ---
 
 ---
