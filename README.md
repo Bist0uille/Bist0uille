@@ -2,7 +2,7 @@
 
 Développeur Python & JavaScript — automatisation, scripts utilitaires, intégrations API.
 
-Je construis des petits outils qui font gagner du temps : extraction de données, automatisation de tâches répétitives, bots, scripts sur mesure.
+Je construis des outils qui font gagner du temps : extraction de données, automatisation de tâches répétitives, analyse web, prospection B2B, bots et scripts sur mesure.
 
 **Stack :** Python · JavaScript / TypeScript · REST APIs · Web scraping · Next.js
 
@@ -10,8 +10,8 @@ Je construis des petits outils qui font gagner du temps : extraction de données
 
 **Projets récents**
 
+- [prospection_seo](https://github.com/Bist0uille/prospection_seo) — Pipeline de prospection B2B automatisé : extraction base SIREN/INSEE, recherche de sites web, audit SEO par crawling, scoring des opportunités commerciales. Output CSV + dashboard HTML. (Python, DuckDuckGo API, Docker)
 - [ArchiBot](https://github.com/Bist0uille/archibot) — Automatisation du remplissage de formulaires CERFA pour architectes (Python, PDF, Tkinter)
-- [Palais Mental](https://github.com/Bist0uille/story) — Application web de narration interactive générée par IA (Next.js 15, Gemini API, Vercel)
 - [Infinite Story](https://github.com/Bist0uille/infinite-story) — RPG textuel à narration infinie pilotée par IA (Python, Gemini API)
 
 ---
@@ -26,7 +26,7 @@ Bordeaux · Disponible pour missions freelance
 
 Python & JavaScript developer — automation, utility scripts, API integrations.
 
-I build small tools that save time: data extraction, task automation, bots, custom scripts.
+I build tools that save time: data extraction, task automation, web analysis, B2B prospecting, bots and custom scripts.
 
 **Stack:** Python · JavaScript / TypeScript · REST APIs · Web scraping · Next.js
 
@@ -34,8 +34,8 @@ I build small tools that save time: data extraction, task automation, bots, cust
 
 **Recent projects**
 
+- [prospection_seo](https://github.com/Bist0uille/prospection_seo) — Automated B2B lead generation pipeline: SIREN/INSEE database extraction, website discovery, SEO crawl audit, commercial opportunity scoring. CSV + HTML dashboard output. (Python, DuckDuckGo API, Docker)
 - [ArchiBot](https://github.com/Bist0uille/archibot) — Automated PDF form filling for architects (Python, PDF, Tkinter)
-- [Palais Mental](https://github.com/Bist0uille/story) — AI-driven interactive storytelling web app (Next.js 15, Gemini API, Vercel)
 - [Infinite Story](https://github.com/Bist0uille/infinite-story) — Infinite AI-generated text RPG (Python, Gemini API)
 
 ---
