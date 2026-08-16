@@ -1,8 +1,6 @@
-# Tim
+Développeur FullStack — automatisation, scripts utilitaires, intégrations API.
 
-Développeur Python & JavaScript — automatisation, scripts utilitaires, intégrations API.
-
-Je construis des outils qui font gagner du temps : extraction de données, automatisation de tâches répétitives, analyse web, prospection B2B, bots et scripts sur mesure.
+Je construis des outils qui font (parfois) gagner du temps : extraction de données, automatisation de tâches répétitives, analyse web, prospection B2B, bots et scripts sur mesure.
 
 **Stack :** Python · JavaScript / TypeScript · REST APIs · Web scraping · Next.js
 
@@ -17,19 +15,15 @@ Je construis des outils qui font gagner du temps : extraction de données, autom
 
 ---
 
-Bordeaux · Disponible pour missions freelance
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bist0uille&show_icons=true&hide_title=true&count_private=true&theme=default&hide=stars)
 
 ---
 
 ---
 
-# Tim
+Fullstack developer — automation, utility scripts, API integrations.
 
-Python & JavaScript developer — automation, utility scripts, API integrations.
-
-I build tools that save time: data extraction, task automation, web analysis, B2B prospecting, bots and custom scripts.
+I build tools that save time (sometimes) : data extraction, task automation, web analysis, B2B prospecting, bots and custom scripts.
 
 **Stack:** Python · JavaScript / TypeScript · REST APIs · Web scraping · Next.js
 
@@ -43,5 +37,3 @@ I build tools that save time: data extraction, task automation, web analysis, B2
 - [Infinite Story](https://github.com/Bist0uille/infinite-story) — Infinite AI-generated text RPG (Python, Gemini API)
 
 ---
-
-Bordeaux · Available for freelance missions
